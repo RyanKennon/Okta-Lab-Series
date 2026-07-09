@@ -24,3 +24,4 @@ The following are required before starting the Okta IAM Lab Series:
 
 - [Okta Tenant Setup & Configuration](https://github.com/RyanKennon/Okta-Tenant-Setup)
 - [Okta Active Directory Integration](https://github.com/RyanKennon/okta-AD-integration/tree/main)
+- [Okta RBAC Design & Implementation](https://github.com/RyanKennon/Okta-RBAC/tree/main)
