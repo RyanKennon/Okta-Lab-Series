@@ -23,6 +23,7 @@ The following are required before starting the Okta IAM Lab Series:
 ## Labs
 
 - [Okta Tenant Setup & Configuration](https://github.com/RyanKennon/Okta-Tenant-Setup)
-- [Okta Active Directory Integration](https://github.com/RyanKennon/okta-AD-integration/tree/main)
-- [Okta RBAC Design & Implementation](https://github.com/RyanKennon/Okta-RBAC/tree/main)
-- [Okta SAML 2.0 Application Integration](https://github.com/RyanKennon/okta-enterpirse-sso/tree/main)
+- [Okta Active Directory Integration](https://github.com/RyanKennon/okta-AD-integration)
+- [Okta RBAC Design & Implementation](https://github.com/RyanKennon/Okta-RBAC)
+- [Okta SAML 2.0 Application Integration](https://github.com/RyanKennon/okta-enterpirse-sso)
+- [Okta MFA and Adaptive Authentication](https://github.com/RyanKennon/okta-mfa-adaptive-authentication)
