@@ -27,3 +27,5 @@ The following are required before starting the Okta IAM Lab Series:
 - [Okta RBAC Design & Implementation](https://github.com/RyanKennon/Okta-RBAC)
 - [Okta SAML 2.0 Application Integration](https://github.com/RyanKennon/okta-enterpirse-sso)
 - [Okta MFA and Adaptive Authentication](https://github.com/RyanKennon/okta-mfa-adaptive-authentication)
+
+- [Okta JML Lifecycle Automation](https://github.com/RyanKennon/okta-jml-lifecycle-automation)
