@@ -4,7 +4,7 @@
 
 # Okta IAM Lab Series
 
-This repository serves as the central hub for the Okta IAM Lab Series — a collection of hands-on identity and access management labs built around the Okta Identity Cloud platform. Each lab builds on the previous one, starting with foundational Okta tenant configuration and progressively covering Active Directory integration, SAML-based Single Sign-On, Multi-Factor Authentication, SCIM provisioning, lifecycle automation, access governance, and no-code workflow automation. All labs are performed in a live Okta trial org and reflect real-world IAM practices aligned with the responsibilities of an entry-level IAM Analyst or Identity Engineer. The series is designed to build a comprehensive Okta portfolio demonstrating hands-on proficiency across the core competencies tested in the Okta Certified Professional (OCP) exam and commonly required in IAM Analyst job descriptions.
+This repository serves as the central hub for the Okta IAM Lab Series — a collection of hands-on identity and access management labs built around the Okta Identity Cloud platform. Each lab builds on the previous one, starting with foundational Okta tenant configuration and progressively covering Active Directory integration, SAML-based Single Sign-On, Multi-Factor Authentication, and JML lifecycle automation. All labs are performed in a live Okta trial org and reflect real-world IAM practices aligned with the responsibilities of an entry-level IAM Analyst or Identity Engineer. The series is designed to build a comprehensive Okta portfolio demonstrating hands-on proficiency across the core competencies tested in the Okta Certified Professional (OCP) exam and commonly required in IAM Analyst job descriptions.
 
 ---
 
@@ -27,5 +27,4 @@ The following are required before starting the Okta IAM Lab Series:
 - [Okta RBAC Design & Implementation](https://github.com/RyanKennon/Okta-RBAC)
 - [Okta SAML 2.0 Application Integration](https://github.com/RyanKennon/okta-enterpirse-sso)
 - [Okta MFA and Adaptive Authentication](https://github.com/RyanKennon/okta-mfa-adaptive-authentication)
-
 - [Okta JML Lifecycle Automation](https://github.com/RyanKennon/okta-jml-lifecycle-automation)
