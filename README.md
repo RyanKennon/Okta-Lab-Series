@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/2c068a6c-d82b-4a43-ad32-d9fe559e1837" />
+  <img src="Header.png" img width="900" height="500" alt="image">
 </p>
 
 # Okta IAM Lab Series
